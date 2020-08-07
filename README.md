@@ -1,6 +1,5 @@
 # While Group工作室
 
-s
 
 仓库ULR:https://github.com/tinglr/blog.git
 
